@@ -69,7 +69,7 @@ To run the project:
 4. Run the Python script.
 
 ```bash
-  python fraud_detection.py
+  jupyter notebook CreditCardFraud.ipynb
 ```
 # 📌 Example Prediction
 
