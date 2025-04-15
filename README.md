@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection using Logistic Regression
+# 💳 Credit Card Fraud Detection using Logistic Regression
 This project implements a Credit Card Fraud Detection system using a basic Logistic Regression model built from scratch with NumPy. It aims to classify transactions as either fraudulent or legitimate based on features like transaction amount, transaction time, and account age.
 
 # 🧠 Model Overview
